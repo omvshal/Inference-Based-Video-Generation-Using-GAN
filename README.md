@@ -76,7 +76,3 @@ Input folder: generated_frames/setup3/
 
 FPS: 8 or 24
 to produce stitched_videos/video_8fps.mp4 and stitched_videos/video_24fps.mp4.
-
-## 🎥 Demo Video
-A polished 5‑minute walkthrough is available at:
-G89.mp4
