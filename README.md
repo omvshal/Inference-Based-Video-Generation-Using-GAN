@@ -1,15 +1,4 @@
-# Inference‑Based Video Generation Using GANs
-
-**Team Members**  
-- Om Vishal (@omvshal)  
-- Pradyumn Vashisht 
-- Saksham Rana 
-
-
----
-
-## 🚀 Project Overview
-
+# 🚀 Inference‑Based Video Generation Using GANs
 We build a **Temporal GAN (TGAN)** to predict future video frames from a sequence of input frames.  
 Our pipeline evolves through three experimental setups—each adding architectural or training refinements—to produce sharper, more temporally coherent frames on the UCF101 BenchPress subset.
 
@@ -76,3 +65,6 @@ Input folder: generated_frames/setup3/
 
 FPS: 8 or 24
 to produce stitched_videos/video_8fps.mp4 and stitched_videos/video_24fps.mp4.
+
+## 📞 Contact
+For any issues, reach out at [vishalom531@gmail.com] or open an issue on GitHub.
