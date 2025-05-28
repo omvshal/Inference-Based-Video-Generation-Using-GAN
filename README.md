@@ -46,7 +46,7 @@ inference-video-gan/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/omvshal/Major_Project.git
+   git clone https://github.com/omvshal/Inference-Based-Video-Generation-Using-GAN.git
 
 2. **Create and activate a virtual environment**
   python3 -m venv venv
